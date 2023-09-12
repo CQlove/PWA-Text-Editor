@@ -1,5 +1,5 @@
 {
-    "name": "JATE",
+    "name": "jate",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -7,7 +7,7 @@
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
-    "author": "",
+    "author": "Jianxiong Chen",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
