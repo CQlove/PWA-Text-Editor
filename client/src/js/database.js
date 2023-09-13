@@ -40,7 +40,8 @@ export const getDb = async () => {
   const request = store.getAll();
   const result = await request;
   console.log('result.value', result);
-  return result;
+  // add .value to get back so that app will show the stored data
+  return result.value;
 };
 
 initdb();
