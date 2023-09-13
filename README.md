@@ -66,6 +66,11 @@ Once you have VScode, Node.js installed you can do ``npm install`` in terminal t
 ## Repo Link
 
 [Link to the code repository](https://github.com/CQlove/PWA-Text-Editor)
+
 [Link to the Heroku](https://cj-jate-8ec415473575.herokuapp.com/)
 
 ## Walkthrough Video
+
+
+https://github.com/CQlove/PWA-Text-Editor/assets/128104973/2345d256-2bfc-4aef-bf5d-94e1ba5d09c8
+
